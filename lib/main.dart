@@ -5,8 +5,8 @@ void main() {
   runApp(FilterCamApp());
 }
 
-class CameraApp extends StatelessWidget {
-  CameraApp({super.key});
+class FilterCamApp extends StatelessWidget {
+  FilterCamApp({super.key});
 
   @override
   Widget build(BuildContext context) {
