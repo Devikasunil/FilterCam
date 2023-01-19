@@ -11,7 +11,7 @@ class CameraApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Camera App',
+      title: 'FilterCam App',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         canvasColor: Colors.deepPurpleAccent,
