@@ -2,7 +2,7 @@ import 'package:camera_app/Screens/ScreenHome.dart';
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(CameraApp());
+  runApp(FilterCamApp());
 }
 
 class CameraApp extends StatelessWidget {
